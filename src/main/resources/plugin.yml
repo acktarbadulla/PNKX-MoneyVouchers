@@ -1,0 +1,7 @@
+name: MoneyVouchers
+version: 1.0.0
+main: com.acktar.moneyvouchers.VouchersPlugin
+api: ["2.0.0"]
+author: ACKTAR
+softdepend: ["LlamaEconomy"]
+description: idk what could be the use of this plugin
