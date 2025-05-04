@@ -1,0 +1,18 @@
+## MoneyVoucher Plugin @1.0.0
+# I saw this on YOUTUBE. Good old days
+
+# smallest voucher a player can create
+min_amount: 500
+# largest voucher a player can create 
+max_amount: 999999999
+
+
+invalid_amount: "§l§7[§eVouchers§7] §r§cYou entered an invalid amount."
+not_enough_money: "§l§7[§eVouchers§7] §r§cYou don't have enough money to make this voucher."
+out_of_range: "§l§7[§eVouchers§7] §r§cAmount must be between ${min} and ${max}."
+success: "§l§7[§eVouchers§7] §r§aYou received a ${amount} voucher."
+
+message: "§l§7[§eVouchers§7] §r§aYou redeemed a voucher for §l§f${amount}"
+title: "Voucher Redeemed"
+subtitle: "+${amount}"
+broadcast: "§l§7[§eVouchers§7] §r§d${player} §eredeemed a §d${amount} §evoucher!"
